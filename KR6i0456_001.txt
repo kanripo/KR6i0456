@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:19:59.799168
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:16
 #+TITLE: 大藏正教血盆經
 #+PROPERTY: CBETA_ID X01n0023
 #+PROPERTY: ID KR6i0456
